@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdtcS6d6CaDcneq3v+kW08AzGg6X3z8WHu5wA/ZDfzMjITlVQJocap4QkWDtIoz1R4i+r2T+n5IgbajlvmjqYA==",
+  "dgSpecHash": "2p+jqMDNdQk/2CAZ4Us/GMwAOAeP+VOBACx2x9tmWaE5mDt1vPjRr+NCUgCButHKKKx013LEGefRd03wntlCPA==",
   "success": true,
-  "projectFilePath": "D:\\DotNet\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DotNetTuHoc\\KhacTri169\\Tutorial\\ToDoAPI\\ToDoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",

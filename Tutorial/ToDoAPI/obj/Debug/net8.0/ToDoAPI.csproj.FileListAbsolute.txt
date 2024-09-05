@@ -33,3 +33,38 @@ D:\FPT SE\Kỳ 5\PRN211\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ref\ToDoAPI.dll
 D:\FPT SE\Kỳ 5\PRN211\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 D:\FPT SE\Kỳ 5\PRN211\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\FPT SE\Kỳ 5\PRN211\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\appsettings.json
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\ToDoAPI.exe
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\ToDoAPI.deps.json
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\ToDoAPI.runtimeconfig.json
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\ToDoAPI.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\ToDoAPI.pdb
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\ToDoAPI\ToDoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.csproj.AssemblyReference.cache
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.AssemblyInfoInputs.cache
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.AssemblyInfo.cs
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.csproj.CoreCompileInputs.cache
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoAPI.props
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoAPI.props
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoAPI.props
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\scopedcss\bundle\ToDoAPI.styles.css
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.csproj.Up2Date
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.dll
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\refint\ToDoAPI.dll
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.pdb
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ToDoAPI.genruntimeconfig.cache
+D:\DotNet\ToDoAPI\ToDoAPI\obj\Debug\net8.0\ref\ToDoAPI.dll

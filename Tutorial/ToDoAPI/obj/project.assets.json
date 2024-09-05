@@ -1016,11 +1016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DotNetTuHoc\\KhacTri169\\Tutorial\\ToDoAPI\\ToDoAPI.csproj",
       "projectName": "ToDoAPI",
-      "projectPath": "D:\\DotNet\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+      "projectPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DotNetTuHoc\\KhacTri169\\Tutorial\\ToDoAPI\\ToDoAPI.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\ToDoAPI\\ToDoAPI\\obj\\",
+      "outputPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DotNetTuHoc\\KhacTri169\\Tutorial\\ToDoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
